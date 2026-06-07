@@ -1,4 +1,4 @@
-# Hariprasad Portfolio
+# Gangittla Hariprasad Portfolio
 
 My personal portfolio website built using HTML, CSS, and JavaScript.
 
@@ -15,7 +15,7 @@ My personal portfolio website built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## Live Demo
-(Add your portfolio link here after deployment)
+(...)
 
 ## Author
 Gangittla Hariprasad
