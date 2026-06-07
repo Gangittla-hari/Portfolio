@@ -15,7 +15,7 @@ My personal portfolio website built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## Live Demo
-(...)
+(https://gangittla-portfolio.netlify.app/)
 
 ## Author
 Gangittla Hariprasad
